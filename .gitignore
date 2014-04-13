@@ -5,3 +5,10 @@ META-INF/
 WEB-INF/
 
 *~
+
+.classpath
+.project
+.settings/
+
+Servers/
+
