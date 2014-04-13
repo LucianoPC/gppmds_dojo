@@ -3,12 +3,18 @@ RemoteSystemsTempFiles/
 build/
 META-INF/
 WEB-INF/
-
-*~
+.settings/
+Servers/
 
 .classpath
 .project
-.settings/
 
-Servers/
+*~
+*.class
+*.jar
+*.war
+*.ear
+
+hs_err_pid*
+
 
